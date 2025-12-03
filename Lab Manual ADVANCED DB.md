@@ -6,7 +6,7 @@
 | :- | :- | :- | :- |
 |MIT 8107 |Continuous Assessment Test (CAT) |Document Data Model |MongoDB 6.0|
 
-**1. Objectives 🎯**
+**1. Objectives **
 
 Upon successful completion of this lab, the user will be able to:
 
@@ -96,4 +96,5 @@ Remove Abel Kanake's profile.
 4\.1 Executing the Complex Query
 
 ![A computer screen shot of a computer program&#x0A;&#x0A;AI-generated content may be incorrect.](Aspose.Words.1737e543-35b0-4817-849f-bd86256253bd.010.png)
+
 
